@@ -1,2 +1,2 @@
 # AgriFarm
-Crop management (planting, harvesting, irrigation
+Crop management planting, harvesting, irrigation
